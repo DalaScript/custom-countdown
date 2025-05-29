@@ -19,7 +19,7 @@ body {
   right: 0;
   bottom: 0;
   width: 100vw;
-  height: auto;
+  height: 101vh;
 }
 
 video {
@@ -27,6 +27,7 @@ video {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  object-fit: cover;
 }
 
 .video-overlay {
@@ -109,7 +110,7 @@ ul {
 }
 
 li {
-
+  display: inline-block;
   font-size: 30px;
   list-style-type: none;
   padding: 10px;
@@ -128,6 +129,32 @@ li span {
   top: 60px;
 }
 
+.complete-title {
+  animation: complete 4s infinite;
+}
+
+@keyframes complete {
+  0% {
+    color: rgb(255, 0, 0);
+  }
+
+  25% {
+    color: rgb(255, 255, 0);
+  }
+
+  50% {
+    color: rgb(0, 255, 0);
+    transform: scale(1.5);
+  }
+
+  75% {
+    color: rgb(0, 0, 255);
+  }
+
+  100% {
+    color: rgb(255, 0, 255);
+  }
+}
 
 /* Media Query: Large Smartphone (Vertical) */
 @media screen and (max-width: 600px) {
@@ -137,7 +164,6 @@ li span {
   }
   
   video {
-    object-fit: cover;
     object-position: center;
     margin-top: -1px;
   }
