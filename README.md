@@ -82,19 +82,19 @@
 
 ### 🗃️ Useful resources
 
+ - [Google Fonts](https://fonts.google.com/) – Web-safe fonts for custom UI
  - [Pixabay Stock Videos](https://pixabay.com/videos/) – Free video backgrounds for web use
  - [Video Compression Tool](https://www.youcompress.com/) – Compress large videos for faster load
- - [Mozilla - Form Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) – Make forms more accessible
- - [Google Fonts](https://fonts.google.com/) – Web-safe fonts for custom UI
- - [Mozilla - Date Input](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input/date) – Using native date pickers
  - [W3Schools - Date Object](https://www.w3schools.com/jsref/jsref_obj_date.asp) – JavaScript date manipulation
- - [Mozilla - Date toISOString](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toISOString) – Convert date to ISO format
  - [W3Schools - String Split](https://www.w3schools.com/jsref/jsref_split.asp) – Split string values
- - [Mozilla - Submit Event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event) – Handle form submissions
  - [W3Schools - Prevent Default](https://www.w3schools.com/jsref/event_preventdefault.asp) – Prevent default form actions
  - [W3Schools - JS Timing Events](https://www.w3schools.com/js/js_timing.asp) – Use `setInterval()` and `setTimeout()`
- - [Mozilla - JSON Stringify](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify) – Convert JS to JSON
- - [Mozilla - JSON Parse](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse) – Convert JSON to JS
+ - [MDN - Form Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) – Make forms more accessible
+ - [MDN - Date Input](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input/date) – Using native date pickers
+ - [MDN - Date toISOString](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toISOString) – Convert date to ISO format
+ - [MDN - Submit Event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event) – Handle form submissions
+ - [MDN - JSON Stringify](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify) – Convert JS to JSON
+ - [MDN - JSON Parse](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse) – Convert JSON to JS
 
 ---
 
